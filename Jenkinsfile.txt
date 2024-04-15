@@ -4,6 +4,10 @@ pipeline{
        maven 'Maven 3.6.3'
    }
    stages{
+       stage('Get code){
+          steps{
+               git 'https://github.com/brahmaiah-moraboina/Registration.git'
+               }
        stage('Build){
           steps{
                sh 'mvn clean package'
