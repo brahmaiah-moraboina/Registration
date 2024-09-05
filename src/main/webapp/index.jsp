@@ -16,7 +16,15 @@ Registration Page
 <input type="text" name="middlename" size="15"/> <br> <br>  
 <label> Lastname: </label>         
 <input type="text" name="lastname" size="15"/> <br> <br>  
-  
+<label>   
+Sowji Loves Arjun :  
+</label>   
+<select>    
+<option value="Yes">Yes</option>  
+<option value="No">No</option>
+<option value="Don't Know">Don't Know</option>
+</select>
+<br>
 <label>   
 Course :  
 </label>   
