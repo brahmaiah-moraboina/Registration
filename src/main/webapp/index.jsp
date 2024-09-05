@@ -38,7 +38,8 @@ Ganika And Sowjanya :
 </label><br>  
 <input type="radio" name="Just Friends"/> Just Friends <br>  
 <input type="radio" name="Best Friends"/> Best Friends <br>  
-<input type="radio" name="Blood Friends"/> Blood Friends <br>  
+<input type="radio" name="Blood Friends"/> Blood Friends <br>
+<input type="radio" name="Others"/> Others <br>
 <br> 
 <label>   
 Gender :  
