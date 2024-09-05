@@ -31,7 +31,15 @@ Course :
 </select>  
   
 <br>  
-<br>  
+<br>
+
+<label>   
+Ganika And Sowjanya :  
+</label><br>  
+<input type="radio" name="Just Friends"/> Just Friends <br>  
+<input type="radio" name="Best Friends"/> Best Friends <br>  
+<input type="radio" name="Blood Friends"/> Blood Friends <br>  
+<br> 
 <label>   
 Gender :  
 </label><br>  
