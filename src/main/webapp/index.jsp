@@ -1,7 +1,7 @@
 <Html>  
 <head>   
 <title>  
-Registration Page  
+Registration Page 
 </title>  
 </head>  
 <body bgcolor="Lightskyblue">  
