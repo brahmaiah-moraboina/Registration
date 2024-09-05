@@ -69,5 +69,6 @@ Re-type password:
 <input type="Password" id="repass" name="repass"> <br> <br>  
 <input type="button" value="Submit"/>  
 </form>  
+<h1> Love You Too Bujjulu </h1>
 </body>  
 </html>  
